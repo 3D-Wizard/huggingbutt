@@ -18,9 +18,9 @@ dependencies = [
     "numpy>=1.13.3,<2.0",
     "tqdm",
     "requests",
-    "stable_baselines3>=2.1.0",
+    "stable_baselines3==2.1.0",
     "mlagents-envs==0.30.0",
-    "tensorboard>=2.14",
+    "tensorboard==2.14",
     "toml",
     "pandas==1.5.3"
 ]
